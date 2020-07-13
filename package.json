@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/james2mid/string-template.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
