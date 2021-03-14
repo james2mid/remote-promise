@@ -1,6 +1,4 @@
-<p style="font-size: 5em; margin: 0">🕹️🤞</p>
-
-# remote-promises
+# 🕹️🤞 remote-promises
 
 Create native [ES6 promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) and resolve them externally.
 
