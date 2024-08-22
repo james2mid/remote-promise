@@ -1,3 +1,5 @@
+> ❌ DEPRECATED in favour of [`Promise.withResolvers()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/withResolvers)
+
 # 🕹️🤞 remote-promises
 
 Create native [ES6 promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) and resolve them externally.
